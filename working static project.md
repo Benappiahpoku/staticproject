@@ -28,3 +28,8 @@
 
 # how to create a new file view.py in django?
   - type nul > views.py
+
+# what files change to achieve this in django?
+  - creation of a new templates/index.html
+  - create views.py
+  - modify urls.py
